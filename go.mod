@@ -1,3 +1,3 @@
-module github.com/paulwizviz/go-mod
+module paulwizviz/go-mod
 
 go 1.13
